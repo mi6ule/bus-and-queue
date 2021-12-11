@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "bd4caf75f81ea457",
+    "type": "split",
+    "children": [
+      {
+        "id": "90f0065682630402",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bus/Pattern.md",
+            "mode": "source"
+          }
+        },
+        "group": "454e85eb3edca5b5"
+      },
+      {
+        "id": "d5099c83a2ea4f33",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bus/Pattern.md",
+            "mode": "preview"
+          }
+        },
+        "group": "454e85eb3edca5b5"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7839c0a0b58099cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "945ea787e76c1d4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe9f0fa465e38395",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff2cc150d660125a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b2589ebfc426f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aa88113da304b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a592b5289862c07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bus/Pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "90f0065682630402",
+  "lastOpenFiles": [
+    "bus/Pattern.md",
+    "queue/implementation.md",
+    "queue/data structure.md",
+    "queue vs bus.md",
+    "image/message-bus.png",
+    "README.md"
+  ]
+}
