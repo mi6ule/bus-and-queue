@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bus/Pattern.md",
+            "file": "queue vs bus.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bus/Pattern.md",
-            "mode": "preview"
+            "file": "queue vs bus.md",
+            "mode": "source"
           }
         },
         "group": "454e85eb3edca5b5"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bus/Pattern.md",
+                "file": "queue vs bus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +101,11 @@
   },
   "active": "90f0065682630402",
   "lastOpenFiles": [
+    "queue vs bus.md",
+    "README.md",
     "bus/Pattern.md",
     "queue/implementation.md",
     "queue/data structure.md",
-    "queue vs bus.md",
-    "image/message-bus.png",
-    "README.md"
+    "image/message-bus.png"
   ]
 }
